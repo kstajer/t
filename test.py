@@ -1,1 +1,1 @@
-print('initial')
+print('main')
